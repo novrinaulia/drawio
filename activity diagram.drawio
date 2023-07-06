@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T14:50:01.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DzbU_Bog1mYid84IJJpX" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T14:52:51.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8Egtb2vkQMoeWvoa14Ui" version="21.6.1" type="github">
   <diagram name="Halaman-1" id="N3lFzF_QxEheowapjdO8">
-    <mxGraphModel dx="4974" dy="817" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4345" dy="467" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,6 +116,30 @@
         </mxCell>
         <mxCell id="cxdvPk_amLAOKnpy7xhZ-63" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-2562" y="756" width="84" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-71" value="Tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-3311" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-72" value="Tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-3016" y="358" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-73" value="Tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-2694" y="361" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-74" value="Tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-2606" y="669" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-75" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-2665" y="469" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-76" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-2933" y="403.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-77" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-3378" y="269" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-78" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-2672" y="724" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

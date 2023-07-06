@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T13:26:04.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.2" etag="9afitgM6KKD0XyLFaqEl" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T14:19:10.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ObBY802TjB2UPXR_zdTt" version="21.6.1" type="github">
   <diagram name="Halaman-1" id="N3lFzF_QxEheowapjdO8">
-    <mxGraphModel>
+    <mxGraphModel dx="4485" dy="544" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-2" value="Admin" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3504" width="200" height="826" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cxdvPk_amLAOKnpy7xhZ-2" source="cxdvPk_amLAOKnpy7xhZ-3" target="cxdvPk_amLAOKnpy7xhZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-3" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="cxdvPk_amLAOKnpy7xhZ-2">
+          <mxGeometry x="51.5" y="56" width="97" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cxdvPk_amLAOKnpy7xhZ-2" source="cxdvPk_amLAOKnpy7xhZ-4" target="cxdvPk_amLAOKnpy7xhZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-4" value="Memanupulasi Data &lt;br&gt;Potensi" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cxdvPk_amLAOKnpy7xhZ-2">
+          <mxGeometry x="23" y="150" width="154" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="cxdvPk_amLAOKnpy7xhZ-2" source="cxdvPk_amLAOKnpy7xhZ-5" target="cxdvPk_amLAOKnpy7xhZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-5" value="Memanipulasi Data Kasus" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cxdvPk_amLAOKnpy7xhZ-2">
+          <mxGeometry x="23" y="254" width="154" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-10" value="Memanipulasi Data Tindakan" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cxdvPk_amLAOKnpy7xhZ-2">
+          <mxGeometry x="23" y="358" width="154" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-6" value="P2P" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3304" width="308" height="826" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="cxdvPk_amLAOKnpy7xhZ-6" source="cxdvPk_amLAOKnpy7xhZ-15" target="cxdvPk_amLAOKnpy7xhZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-15" value="Membuat Rumusan Kebijakan untuk Pengendalian dan Pencegahan Penyakit (dalam hal ini merujuk pada Data Tindakan)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cxdvPk_amLAOKnpy7xhZ-6">
+          <mxGeometry x="49" y="341" width="201" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="cxdvPk_amLAOKnpy7xhZ-6" source="cxdvPk_amLAOKnpy7xhZ-16" target="cxdvPk_amLAOKnpy7xhZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-16" value="Merekap Data Kasus dan PJB" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="cxdvPk_amLAOKnpy7xhZ-6">
+          <mxGeometry x="66.5" y="486" width="166" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-18" value="Mengecek Data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="cxdvPk_amLAOKnpy7xhZ-6">
+          <mxGeometry x="90" y="586" width="119" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-25" value="Tidak Seusai" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cxdvPk_amLAOKnpy7xhZ-6">
+          <mxGeometry x="215" y="616" width="35" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cxdvPk_amLAOKnpy7xhZ-10" target="cxdvPk_amLAOKnpy7xhZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cxdvPk_amLAOKnpy7xhZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cxdvPk_amLAOKnpy7xhZ-18" target="cxdvPk_amLAOKnpy7xhZ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3024" y="156.55555555555554" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-3038" y="640" />
+              <mxPoint x="-3038" y="182" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

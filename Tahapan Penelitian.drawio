@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="Halaman-1" id="XqUBbf8m875il2XX0lg2">
+    <mxGraphModel dx="1035" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;labelBackgroundColor=none;" edge="1" parent="1" source="gkHu8rGiMxF9_rdrb5nj-1" target="gkHu8rGiMxF9_rdrb5nj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-1" value="Identifikasi Masalah" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;labelBackgroundColor=none;" edge="1" parent="1" source="gkHu8rGiMxF9_rdrb5nj-2" target="gkHu8rGiMxF9_rdrb5nj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-2" value="Pengumpulan Data" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;labelBackgroundColor=none;" edge="1" parent="1" source="gkHu8rGiMxF9_rdrb5nj-3" target="gkHu8rGiMxF9_rdrb5nj-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-3" value="Pengolahan Data" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;labelBackgroundColor=none;" edge="1" parent="1" source="gkHu8rGiMxF9_rdrb5nj-4" target="gkHu8rGiMxF9_rdrb5nj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-4" value="Analisis Autokorelasi Spasial&lt;div&gt;(Indeks Moran Global dan Lokal&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="270" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;labelBackgroundColor=none;" edge="1" parent="1" source="gkHu8rGiMxF9_rdrb5nj-7" target="gkHu8rGiMxF9_rdrb5nj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-7" value="Analisis Regresi Spasial" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;labelBackgroundColor=none;" edge="1" parent="1" source="gkHu8rGiMxF9_rdrb5nj-8" target="gkHu8rGiMxF9_rdrb5nj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-8" value="Implementasi" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;labelBackgroundColor=none;" edge="1" parent="1" source="gkHu8rGiMxF9_rdrb5nj-9" target="gkHu8rGiMxF9_rdrb5nj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-9" value="Interpretasi dan Pembahasan" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="490" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-10" value="Kesimpulan dan Saran" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FFFFFF;fillColor=#000000;strokeColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="564.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gkHu8rGiMxF9_rdrb5nj-20" value="Tahapan Penelitian" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="270" y="10" width="190" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
